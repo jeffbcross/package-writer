@@ -18,6 +18,7 @@
             "tsConfig": "apps/afunction/tsconfig.app.json",
             "aot": true,
             "assets": [
+              "apps/afunction/src/package.json",
               "apps/afunction/src/favicon.ico",
               "apps/afunction/src/assets"
             ],
